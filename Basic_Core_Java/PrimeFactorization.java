@@ -5,7 +5,7 @@
  * O/P -> Print the prime factors of number N.
  *
  * @author: SAYANI KOLEY
- * @since: 11.06.2021
+ * @since: 12.06.2021
  */
 
 import java.util.Scanner;
